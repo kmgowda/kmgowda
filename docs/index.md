@@ -28,7 +28,7 @@ System Architect/Technical Manager and an Individual Contributor too.
     * Design and Implementation of FAT12/16/32 File Systems
     * Design and Implementation of exFAT File system
     * Design and Implementation of USB Host controller driver
-    * Design and Implementation of device drivers for MMC/SD, STATA SSDs
+    * Design and Implementation of device drivers for MMC/SD, SATA SSDs
 
 * Software Engineer, SASKEN Technologies , 08/2004 - 12/2005
     * Design and implementaiton fo device drivers for NAND, NOR Flash memories
