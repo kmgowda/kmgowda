@@ -99,14 +99,14 @@ System Architect/Technical Manager and an Individual Contributor too.
 <p align="center">
     <a href="https://www.amazon.in/Keshava-Munegowda/e/B00JGF3C64%3Fref=dbs_a_mng_rwt_scns_share">
         <img src="images/kmg-wlan-book.jpg" alt="Design and Implementation of WLAN Authentication and Security" 
-width="100" height="200">
+width="200" height="300">
     </a>
 </p>
 
 * “ExFAT and FAT File systems Internals: Exploring FAT, ExFAT, TFAT and TexFAT File systems” by Keshava Munegowda, Jun 2016, Amazon Digital services, ASIN: BOIHQ8PRA6,
 <p align="center">
     <a href="https://www.amazon.in/Books-Keshava-Munegowda/s?rh=n%3A976389031%2Cp_27%3AKeshava+Munegowda">
-        <img src="images/kmg-exfat-book.jpg" alt="ExFAT and FAT file system internals" width="100" height="200">
+        <img src="images/kmg-exfat-book.jpg" alt="ExFAT and FAT file system internals" width="200" height="300">
     </a>
 </p>
 
