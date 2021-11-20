@@ -95,8 +95,21 @@ System Architect/Technical Manager and an Individual Contributor too.
 
 # Books
 
-*	“Design and Implementation of WLAN Authentication and Security: Building Secure Wireless LAN by EAP- MD5, EAP-TLS and EAP-TTLS protocols” by Keshava Munegowda, Jun 2010. LAMBERT Publications, Berlin, Germany.  
+* “Design and Implementation of WLAN Authentication and Security: Building Secure Wireless LAN by EAP- MD5, EAP-TLS and EAP-TTLS protocols” by Keshava Munegowda, Jun 2010. LAMBERT Publications, Berlin, Germany.
+<p align="center">
+    <a href="https://www.amazon.in/Books-Keshava-Munegowda/s?rh=n%3A976389031%2Cp_27%3AKeshava+Munegowda?from=kmg">
+        <img src="images/kmg-wlan-book.jpg" alt="Design and Implementation of WLAN Authentication and Security" 
+width="50" height="100">
+    </a>
+</p>
+
 * “ExFAT and FAT File systems Internals: Exploring FAT, ExFAT, TFAT and TexFAT File systems” by Keshava Munegowda, Jun 2016, Amazon Digital services, ASIN: BOIHQ8PRA6,
+<p align="center">
+    <a href="https://www.amazon.in/Books-Keshava-Munegowda/s?rh=n%3A976389031%2Cp_27%3AKeshava+Munegowda?from=kmg">
+        <img src="images/kmg-exfat-book.jpg" alt="ExFAT and FAT file system internals" width="50" height="100">
+    </a>
+</p>
+
 
 # Research Publications
 
