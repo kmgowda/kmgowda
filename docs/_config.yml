@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: KMG
 description: Keshava Munegowda
+github:
+  repository_url: https://github.com/kmgowda
