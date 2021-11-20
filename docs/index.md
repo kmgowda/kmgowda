@@ -6,7 +6,7 @@
 
 
 # Dr Keshava Munegowda
-**Vice Prisident, SecDB Engineering, Goldman Sachs, Bengaluru**
+**Vice President, SecDB Engineering, Goldman Sachs, Bengaluru**
 
 System Architect/Technical Manager and an Individual Contributor too.
 
@@ -31,9 +31,9 @@ System Architect/Technical Manager and an Individual Contributor too.
     * Design and Implementation of device drivers for MMC/SD, SATA SSDs
 
 * Software Engineer, SASKEN Technologies , 08/2004 - 12/2005
-    * Design and implementaiton fo device drivers for NAND, NOR Flash memories
+    * Design and implementation fo device drivers for NAND, NOR Flash memories
     
-* Project Trainee Engieer, Global Edge  , 07/2003 - 08/2004
+* Project Trainee Engineer, Global Edge  , 07/2003 - 08/2004
     * Design and Implementation of protocols EAP, EAP-TLS, EAP-TTLS protocols for WLAN authentication and security protocol
 
 # Skills
