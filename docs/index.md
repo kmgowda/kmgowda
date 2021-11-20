@@ -97,7 +97,7 @@ System Architect/Technical Manager and an Individual Contributor too.
 
 * “Design and Implementation of WLAN Authentication and Security: Building Secure Wireless LAN by EAP- MD5, EAP-TLS and EAP-TTLS protocols” by Keshava Munegowda, Jun 2010. LAMBERT Publications, Berlin, Germany.
 <p align="center">
-    <a href="https://www.amazon.in/Books-Keshava-Munegowda/s?rh=n%3A976389031%2Cp_27%3AKeshava+Munegowda">
+    <a href="https://www.amazon.in/Keshava-Munegowda/e/B00JGF3C64%3Fref=dbs_a_mng_rwt_scns_share">
         <img src="images/kmg-wlan-book.jpg" alt="Design and Implementation of WLAN Authentication and Security" 
 width="50" height="100">
     </a>
