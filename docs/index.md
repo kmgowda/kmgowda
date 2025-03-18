@@ -10,12 +10,12 @@
 
 System Architect/Technical Manager and an Individual Contributor too.
 
-18+ years of experience in Design, Development of File systems, Storage Systems, Cluster Infrastructure development, Software Defined Storage / Streaming Storage, Big data systems and Network Authentication and Security Protocols.
+20+ years of experience in Design, Development of File systems, Storage Systems, Cluster Infrastructure development, Software Defined Storage / Streaming Storage, Big data systems and Network Authentication and Security Protocols.
 
 
 # Work Experience
 * Vice President, SecDB Engineering, Goldman Sachs , Since 08/2020
-   * TDMS Auto failover Implementation
+   * TDMS and SARAL Auto failover Implementation
    * Performance Engineering
    
 * Senior Principal Engineer, DellEMC ,  02/2013 -  08/2020 
