@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://in.linkedin.com/in/dr-keshava-munegowda-phd-604bbb5b?from=kmg">
-        <img src="images/kmg.jpg" alt="Keshava Munegowda" width="300" height="200">
+        <img src="images/kmg-2024.jpg" alt="Keshava Munegowda" width="300" height="200">
     </a>
 </p>
 
