@@ -8,9 +8,9 @@
 # Dr Keshava Munegowda
 **Vice President, SecDB Engineering, Goldman Sachs, Bengaluru**
 
-System Architect/Technical Manager and an Individual Contributor too.
+System Architect/Technical Manager.
 
-20+ years of experience in Design, Development of File systems, Storage Systems, Cluster Infrastructure development, Software Defined Storage / Streaming Storage, Big data systems and Network Authentication and Security Protocols.
+20+ years of experience in Design, Development of File systems, Storage Systems, Cluster Infrastructure development, Software Defined Storage / Streaming Storage, Big data systems and Network Authentication and Security Protocols, Generative AI and LLMS.
 
 
 # Work Experience
