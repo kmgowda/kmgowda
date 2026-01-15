@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Keshava Munegowda](https://kmgowda.github.io/kmgowda/)
-- 👀 I’m interested in storage systems, performance analysis, analytics , Distributed systems , Algorithms
+- 👀 I’m interested in storage systems, performance analysis, analytics , Distributed systems , Algorithms, Generative AI , LLMS
 - 📫 How to reach me  keshava.gowda@gmail.com
 
 <!---
