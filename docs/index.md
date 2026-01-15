@@ -5,7 +5,7 @@
 </p>
 
 
-# Dr Keshava Munegowda
+# Dr Keshava Munegowda  PhD
 **Vice President, SecDB Engineering, Goldman Sachs, Bengaluru**
 
 System Architect/Technical Manager.
